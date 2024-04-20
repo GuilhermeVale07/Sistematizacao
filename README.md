@@ -1,6 +1,6 @@
 # Sistematizacao
 
-# Clínica XYZ - Landing Page
+# Clínica Corpo & Saúde - Landing Page
 
 Este repositório contém o código-fonte da landing page estática para a Clínica XYZ. A landing page apresenta as principais informações da clínica, bem como seus principais serviços.
 
